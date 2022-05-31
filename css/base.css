@@ -1,0 +1,500 @@
+.menu li a {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+
+    color: #000000;
+
+    text-decoration: none;
+}
+
+.menu {
+    display: flex;
+}
+
+.menu li {
+    list-style-type: none;
+}
+
+.btn-1 {
+    margin-left: 4px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+
+    color: #FFFFFF;
+    width: 117px;
+    height: 40px;
+    border: none;
+
+    background: #E6A859;
+}
+
+.nav {
+    display: flex;
+    float: right;
+    align-items: center;
+    margin-right: 155px;
+}
+
+.header {
+    margin-top: 48px;
+}
+
+.title {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 55px;
+    line-height: 65px;
+    color: #534847;
+    margin-top: 80px;
+    margin-left: 159px;
+}
+
+.title span {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 55px;
+    line-height: 65px;
+    /* identical to box height */
+
+
+    color: #E2B84C;
+}
+
+.big-img {
+    float: right;
+    width: 612px;
+    margin-left: 27px;    
+    height: 773px;
+    border-radius: 26px 0px 0px 0px;
+    vertical-align: middle;
+    margin-top: 58px;
+}
+
+
+.describe-1 {
+    Height: 120.11px;
+    Width: 428.26px;
+    margin-top: 34.89px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+
+    color: #8D8180;
+
+}
+
+.describe-2 {
+    Width: 609px;
+    Height: 97px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px; 
+    color: #8D8180;
+}
+
+.describe-3 {
+    Width: 609px;
+    Height: 97px;
+    margin-top: 5px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px; 
+    color: #8D8180;
+}
+
+.describe-4 {
+    margin-top: 47px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    float: right;
+    margin-right: 125px;
+    color: #8D8180;
+}
+
+.describe-5 {
+    margin-top: 47px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px; 
+    color: #8D8180;
+}
+.describe-6 {
+    Width: 291.33px;
+    Height: 97px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+ 
+    margin-left: 775px;
+    color: #8D8180;
+}
+
+.circle {
+    position: absolute;
+    Top: 185px;
+    Left: -51px;
+}
+
+
+.circle-mini {
+    position: absolute;
+    left: 20px;
+    top: 672px;
+}
+
+
+.btn-2 {
+    width: 323px;
+    height: 89px;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    border: none;
+    background: #F9F9F9;
+}
+
+.container-2 {
+    position: relative;
+}
+
+.title-2 {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    /* identical to box height */
+    margin-top: 221px;
+    margin-left: 171px;
+
+    color: #534847;
+}
+
+
+.circle-2 {
+    margin-right: 43px;
+    Width: 103px;
+    Height: 103px;
+    margin-top: 96px;
+    float: right;
+}
+
+.circle-3 {
+    margin-left: 45px;
+    margin-top: 193.16px;
+        display: flex;
+}
+
+.image-1 {
+    float: left;
+}
+
+.image-2 { 
+    float: right;
+}
+
+.title-3 {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;    float: right;
+    /* identical to box height */
+    margin-left: 128px;
+width: 531px;
+
+    color: #534847;
+}
+
+.title-4 {
+    font-family: 'Raleway';
+    margin-top: 75px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    float: left;
+    width: 531px;
+    margin-left: 110px;
+    color: #534847;
+}
+
+.btn-3 {
+    width: 220px;
+    height: 47px;
+    border: none;
+    margin-top: 75px;
+    background: #E6A859;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height */
+
+
+    color: #FFFFFF;
+
+}
+
+.squade{
+	position: absolute;
+width: 76%;
+height: 618px;
+left: 297px;
+top: 1701px;
+    z-index: -1;
+background: #F9F9F9;
+}
+.squade-2{
+	position: absolute;
+width: 76%;
+height: 618px;
+left: 0;
+top: 2320px;
+    z-index: -1;
+background: #F9F9F9;
+}
+
+.squade-3{ 
+position: absolute;
+    width: 1279px;
+    height: 785px;
+    left: 0px;
+    top: 4222px;
+    z-index: -1;
+    z-index: -1;
+background: #F9F9F9;
+}
+
+
+
+
+.title-5{
+	font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 35px;
+text-align: center;
+    display: inline-block;
+    width: -webkit-fill-available;
+        margin-top: 261px;
+color: #534847;
+
+}
+
+.title-6{
+	font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 35px;
+text-align: center;
+    display: inline-block;
+    width: -webkit-fill-available;
+        margin-top: 143px;
+color: #534847;
+
+}
+.title-7{
+    margin-top: 221px;
+    margin-left: 180px;
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 35px;
+
+color: #534847;
+
+
+}
+
+
+.title-8{font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 23px; 
+margin-left: 123px;
+color: #FFFFFF;
+}
+
+.title-9{font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 23px; 
+color: #FFFFFF;
+}
+
+
+.card-1{
+	width: 213px;
+height: 263px;
+text-align: center; 
+}
+
+.card-1 p{font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 21px;
+text-align: center;
+margin-top: 65.35px;
+color: #534847;
+}
+
+.card-1 span{
+	font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+text-align: center;
+margin-top: 14px;
+display: flex;
+color: #8D8180;
+}
+.container-3 {
+    position: relative;
+    width: 284px;
+height: 334px;
+}
+.cards{
+	display: flex;
+    justify-content: space-around;
+    margin-top: 97px;
+    width: 75%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+
+.circle-4 {
+
+position: absolute;
+ right: 0px; 
+top: 4508px;
+}
+
+.card-img{
+width: 284px;
+height: 334px;
+}
+.card-btn{
+width: 149px;
+height: 55px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    border: none;
+    background: #F9F9F9;
+}
+
+.footer-1{
+    height: 557px;
+    margin-top: 155px;
+    display: inline-block;
+    width: -webkit-fill-available;
+    background: #282322;
+
+}
+
+
+.link{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 97px;
+    width: 75%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.cards-footer {
+    display: flex; 
+    margin-top: 97px; 
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.input-1{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+    margin-top: 3px;
+
+    text-align: center;
+
+color: #534847;
+    width: 289px;
+height: 47px;
+}
+
+.btn-4 {
+    width: 297px;
+    height: 47px;
+    border: none;
+    margin-top: 17px;
+    background: #E6A859;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FFFFFF;
+}
+
+.rights{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FFFFFF;
+    margin-top: 101px;
+    /* margin-left: auto; */
+    /* margin-right: auto; */
+    text-align: center;
+}
+
+.cards-link-footer{    display: flex;
+    justify-content: space-around;
+    margin-top: 25px;
+    width: 35%;
+    margin-right: auto;
+    margin-left: auto;}
+
+   .link-footer {font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;text-decoration: none;
+
+color: rgba(255, 255, 255, 0.6);}
